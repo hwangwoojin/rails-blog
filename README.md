@@ -1,24 +1,27 @@
-# README
+# rails-blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+:: 루비 온 레일즈 v5.2 가이드에 대한 코드입니다.
 
-Things you may want to cover:
+## Why rails-blog?
 
-* Ruby version
+:wave: ruby 2.6.6, rails 5.2.3 환경에서의 백엔드 개발을 해야 해서 일 겸 공부로 작성중입니다.
 
-* System dependencies
+## Description
 
-* Configuration
+:open_hands: 직접 작성한 [루비 온 레일즈 v5.2](https://hwangwoojindev.tistory.com/3)를 참고하세요.
 
-* Database creation
+## Environment
 
-* Database initialization
+:clap: macOS Catalina
+:clap: ruby 2.6.6
+:clap: rails 5.2.3
 
-* How to run the test suite
+## How to run?
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+$ rails server
+```
 
-* Deployment instructions
+## Reference
 
-* ...
+:muscle: [Rails Guide](https://guides.rubyonrails.org/v5.2/getting_started.html)
