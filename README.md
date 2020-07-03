@@ -34,3 +34,6 @@ $ rails server
 
 :muscle:
 [Rails Guide](https://guides.rubyonrails.org/v5.2/getting_started.html)
+
+:muscle:
+[ActiveAdmin](https://activeadmin.info/)
