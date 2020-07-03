@@ -8,12 +8,14 @@
 
 ## Description
 
-:open_hands: 직접 작성한 [루비 온 레일즈 v5.2](https://hwangwoojindev.tistory.com/3)를 참고하세요.
+:open_hands: 직접 작성한 [루비 온 레일즈 v5.2 시작하기](https://hwangwoojindev.tistory.com/3)를 참고하세요.
 
 ## Environment
 
 :clap: macOS Catalina
+
 :clap: ruby 2.6.6
+
 :clap: rails 5.2.3
 
 ## How to run?
