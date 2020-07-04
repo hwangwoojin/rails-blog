@@ -1,7 +1,7 @@
 # rails-blog
 
 :wave:
-루비 온 레일즈 v5.2 가이드에 대한 코드입니다.
+루비 온 레일즈 v5.2 그리고 액티브어드민에 대한 코드입니다.
 
 ## Why rails-blog?
 
@@ -12,6 +12,9 @@ ruby 2.6.6, rails 5.2.3 환경에서의 백엔드 개발을 해야 해서 일 �
 
 :open_hands:
 [루비 온 레일즈 v5.2 시작하기](https://hwangwoojindev.tistory.com/3)
+
+:open_hands:
+[루비 온 레일즈 액티브어드민 시작하기](https://hwangwoojindev.tistory.com/4)
 
 ## Environment
 
