@@ -1,8 +1,5 @@
-ActiveAdmin.register Post do
-  menu priority: 1
-  # menu parent: ["Admin", "Blog"]
-  menu parent: 'Blog'
-  includes :author, :categories # eager loading
+ActiveAdmin.register Project do
+
   # See permitted parameters documentation:
   # https://github.com/activeadmin/activeadmin/blob/master/docs/2-resource-customization.md#setting-up-strong-parameters
   #
